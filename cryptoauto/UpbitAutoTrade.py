@@ -3,8 +3,8 @@ import pyupbit
 import datetime
 import numpy as np
 
-access = "2GygZYfAGda7gq7cExQma4Pjb5YS6CxuqmaIzDUA"
-secret = "FntFlJtxrDdX8gNQfzXR5T5vxs2ridKnZx1yRNbc"
+access = 
+secret = 
 
 def get_ror(k):
     """수익률 조회"""
